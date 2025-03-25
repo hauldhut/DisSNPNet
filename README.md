@@ -6,7 +6,8 @@
 - **Data**: Contains all data 
 - **Code**: Contains all source code to reproduce all the results
 - **Results**: To store simulation results
-  - **Evidence**: To store collected evidence
+  - **Prediction**: To store top predicted SNPs and their evidence
+- **Figure**: To store figures for performance comparison and evidence collection
 
 ## How to run
 - Install R packages
