@@ -1,7 +1,7 @@
-# DisSNPNet
+![image](https://github.com/user-attachments/assets/92785278-ea84-46d9-b87a-e37f658eecfe)# DisSNPNet
 Predicting Disease-Associated SNPs Using Linkage Disequilibrium, Disease Similarity, and 1KGP Datasets with Evidence-Based Validation
 
-![Network construction](https://github.com/hauldhut/MHDR/blob/main/Figure1.png)
+![Workflow of DisSNPNet for Predicting Disease-Associated SNPs](https://github.com/hauldhut/DisSNPNet/blob/main/Figure1.png)
 
 ## Repo structure
 - **Data**: Contains all data 
