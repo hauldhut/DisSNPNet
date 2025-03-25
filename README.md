@@ -1,4 +1,4 @@
-# Predicting Disease-Associated SNPs Using Linkage Disequilibrium, Disease Similarity, and 1KGP Datasets with Evidence-Based Validation
+# DisSNPNet: Predicting Disease-Associated SNPs Using Linkage Disequilibrium, Disease Similarity, and 1KGP Datasets with Evidence-Based Validation
 
 ![Workflow of DisSNPNet for Predicting Disease-Associated SNPs](https://github.com/hauldhut/DisSNPNet/blob/main/Figure1.png)
 
