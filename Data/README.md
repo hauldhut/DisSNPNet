@@ -1,15 +1,11 @@
 # This folder contains all data used in the manuscript
 ## MeSH-based Disease similarity network
-- **DrugSimNet_PREDICT.txt** (i.e., DrSimNet_PREDICT): Collected from PREDICT study
-- **DrugSimNet_CHEM.txt** (i.e., DrSimNet_CHEM): Constructed using the SIMCOMP tool for 7,838 drugs collected from the KEGG database
-## LD SNP networks
-- **DiseaseSimNet_OMIM.txt** (i.e., DiSimNet_OMIM): Collected and constructed from MimMiner
-- **DiseaseSimNet_HPO.sif** (i.e., DiSimNet_HPO): Constructed based on the Human Phenotype Ontology (HPO)
-- **DiseaseSimNet_GeneNet.txt** (i.e., DiSimNet_GeneNet): Constructed based on known disease-associated genes from OMIM and a gene network (HumanNet)
+- **MeSHID_Net.txt**: a network with 820 nodes (diseases) and 121,869 weighted edges (similarity scores)
+
+## SNP LD networks
+- **/1KGP/Phase1**: Constructed from 1KGP Phase 1 Data each for chromosome at LD Thresholds r2>=0.2 and r2>=0.8
+- **/1KGP/Phase3**: Constructed from 1KGP Phase 3 Data each for chromosome at LD Thresholds r2>=0.2 and r2>=0.8
 
 ## Known disease-SNP associations
-- **Drug2Disease_PREDICT_BinaryInteraction.csv**: Collected from PREDICT study
-
-## Data sources for evidence collection
-- **Supporting Information.xlsx**: Contains information about drugs, targets, diseases, genes, pathways, protein complexes,... and collected evidence for promissing drug-disease associations
+- **/GWAS/CAUSALdb**: Constructed from CAUSALdb for each chromosome
 
