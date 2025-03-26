@@ -10,9 +10,9 @@
  
 - **MH_KFold_ROC_Final.R**: Run K-Fold cross-validation for Heterogeneous/Multiplex-Heterogeneous Networks of Drugs and Diseases
 
-- **Summarize_AUC_Params.R**: To investigate the prediction performance in terms of AUC resulted from **M_LOOCV_ROC_Final.R** and **MH_LOOCV_ROC_Final.R** by parameters
-
-- **Summarize_AUC_ROC.R**: To summarize and draw ROC curves resulted from **M_LOOCV_ROC_Final.R** and **MH_LOOCV_ROC_Final.R**
-
-- **MH_Predict_Evidence_Final.R**: To predict and select top 10 highly ranked diseases for each drug, then find evidence supporting the promissing drug-disease associations 
+- **Summarize Results**:
+  - **InvestigateData_MeSH2SNP.R**: Figure 2: Distribution of Known Disease-SNP Associations Across Populations and Chromosomes from CAUSALdb
+  - **InvestigateData_NetProps.R**: Figure 3, Figure S1: Structural Properties of SNP LD Networks Constructed with 1KGP Phase 1 and Phase 3 Data
+  
+  - **MH_Predict_Evidence_Final.R**: To predict and select top 10 highly ranked diseases for each drug, then find evidence supporting the promissing drug-disease associations 
 
