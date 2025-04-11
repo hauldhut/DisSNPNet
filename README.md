@@ -11,7 +11,7 @@
 
 ## How to run
 - Install R packages
-  - *RandomWalkRestartMH, ontologyIndex, MeSHSim, phenoscanner, doParallel, ROCR, ggplot2, Metrics, hash*
+  - *RandomWalkRestartMH, ontologyIndex, MeSHSim, phenoscanner, doParallel, ROCR, ggplot2, Metrics, hash, biomaRt, clusterProfiler, org.Hs.eg.db*
 - Download the repo
 - Follow instructions in the folder **Code** to run
   
