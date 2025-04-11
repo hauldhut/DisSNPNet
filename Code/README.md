@@ -20,7 +20,9 @@
   - **Draw_Figure5.R**: Compare Performance of DisSNPNet on Heterogeneous Networks Across LD Thresholds --> Figure 5
   - **Draw_Figure6.R**: Compare Performance of DisSNPNet on Heterogeneous Networks Across Datasets with LD threshold r² ≥ 0.8 --> Figure 6
   - **Compare_Mean_by_tTest.R**: Perform Statistical Tests
-- **Prediction of Novel Disease-SNP Associations**:
+ 
+## Prediction of Novel Disease-SNP Associations
+  - **SNP_MH_Predict_Final.R**: Predict, select top k and collect evidence
   - **Summarize_topKEvidence_Final.R**: Visualize Number of Supporting Evidence for Top-Ranked SNPs Predicted by DisSNPNet on Heterogeneous Networks --> Figure 7
   - **Visualize_Evidence_Final.R**: Visualize Distribution of Top 30 Predicted SNPs Across Diseases and Chromosomes  --> Figure 8
   - **Enrich_Pathways_Final.R**: KEGG Pathway Enrichment for Genes Associated with Predicted SNPs --> Figure 9
